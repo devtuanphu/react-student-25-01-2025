@@ -1,10 +1,10 @@
 import React from "react";
-import ListHoliday from "../components/Home/ListHoliday";
+import Addproduct from "../components/Home/Addproduct";
 
 const Home = () => {
   return (
     <div>
-      <ListHoliday />
+      <Addproduct />
     </div>
   );
 };
